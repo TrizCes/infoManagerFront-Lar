@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|c:\\users\\oglia\\onedrive\\documentos\\bea-dev\\trizces\\infomanagerapp\\src\\pages\\client\\client.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|solutionrelative:src\\pages\\client\\client.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|c:\\users\\oglia\\onedrive\\documentos\\bea-dev\\trizces\\infomanagerapp\\src\\pages\\client\\client.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|solutionrelative:src\\pages\\client\\client.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|c:\\users\\oglia\\onedrive\\documentos\\bea-dev\\trizces\\infomanagerapp\\src\\pages\\list\\list.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|solutionrelative:src\\pages\\list\\list.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|c:\\users\\oglia\\onedrive\\documentos\\bea-dev\\trizces\\infomanagerapp\\src\\components\\menu\\menu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|solutionrelative:src\\components\\menu\\menu.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|c:\\users\\oglia\\onedrive\\documentos\\bea-dev\\trizces\\infomanagerapp\\src\\pages\\list\\list.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|solutionrelative:src\\pages\\list\\list.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|c:\\users\\oglia\\onedrive\\documentos\\bea-dev\\trizces\\infomanagerapp\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|c:\\users\\oglia\\onedrive\\documentos\\bea-dev\\trizces\\infomanagerapp\\src\\components\\menu\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8671ECC1-F69B-4D8B-94C4-05B86713DC48}|infomanagerapp.esproj|solutionrelative:src\\components\\menu\\menu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "list.jsx",
+              "DocumentMoniker": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\pages\\list\\list.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\list\\list.jsx",
+              "ToolTip": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\pages\\list\\list.jsx",
+              "RelativeToolTip": "src\\pages\\list\\list.jsx",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-12T00:02:21.995Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.jsx",
+              "DocumentMoniker": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\pages\\client\\client.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\client\\client.jsx",
+              "ToolTip": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\pages\\client\\client.jsx",
+              "RelativeToolTip": "src\\pages\\client\\client.jsx",
+              "ViewState": "AQIAADcAAAAAAAAAAAAiwD4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-12T01:41:47.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menu.jsx",
+              "DocumentMoniker": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\components\\menu\\menu.jsx",
+              "RelativeDocumentMoniker": "src\\components\\menu\\menu.jsx",
+              "ToolTip": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\components\\menu\\menu.jsx",
+              "RelativeToolTip": "src\\components\\menu\\menu.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-12T01:43:07.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "client.css",
+              "DocumentMoniker": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\pages\\client\\client.css",
+              "RelativeDocumentMoniker": "src\\pages\\client\\client.css",
+              "ToolTip": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\pages\\client\\client.css",
+              "RelativeToolTip": "src\\pages\\client\\client.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-12T01:41:58.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "menu.css",
+              "DocumentMoniker": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\components\\menu\\menu.css",
+              "RelativeDocumentMoniker": "src\\components\\menu\\menu.css",
+              "ToolTip": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\components\\menu\\menu.css",
+              "RelativeToolTip": "src\\components\\menu\\menu.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-12T00:43:53.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "list.css",
+              "DocumentMoniker": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\pages\\list\\list.css",
+              "RelativeDocumentMoniker": "src\\pages\\list\\list.css",
+              "ToolTip": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\pages\\list\\list.css",
+              "RelativeToolTip": "src\\pages\\list\\list.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-12T00:02:37.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\oglia\\OneDrive\\Documentos\\Bea-dev\\TrizCes\\infomanagerapp\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-11T20:26:48.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
